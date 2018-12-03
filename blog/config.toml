@@ -32,7 +32,7 @@ publishDir = "/Volumes/DANIEL/Github/danielsll24.github.io"
     MathJaxVersion = "2.7.5"
 
     [params.logo]
-    url = "logo.png"
+    url = "D.png"
     width = 50
     height = 50
     alt = "Logo"
