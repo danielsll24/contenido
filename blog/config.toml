@@ -5,7 +5,7 @@ theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = [ "_files$", "_cache$"]
-publishDir = "https://danielsll24.github.io"
+publishDir = "danielsll24.github.io"
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
