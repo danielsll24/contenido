@@ -4,7 +4,7 @@ date: "2019-01-25"
 output: html_document
 ---
 
-En esta entrada haré un recuento de los sucesos ocurridos en Venezuela entre 2015 y 2019. Aunque los venezolanos están sufriendo hiperinflación, represión y crisis humanitaria, me limitaré a revisar lo que ha sucedido en la política venezolana.
+En esta entrada haré un recuento de los sucesos ocurridos en Venezuela entre 2015 y 2019. Aunque los venezolanos están sufriendo hiperinflación, represión y crisis humanitaria, me limitaré a revisar lo que ha sucedido en la política venezolana. Con esto busco explicar que el juramento de Guaidó no se trata de un golpe y que la ruptura del orden constitucional inició en diciembre de 2015 por parte de Maduro y el PSUV.
 
 1. Elecciones parlamentarias de 2015.
 
