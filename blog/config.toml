@@ -1,6 +1,6 @@
 baseurl = "https://danielsll24.github.io"
 languageCode = "en-us"
-title = "Blog de Daniel"
+title = "Blog de Daniel Saavedra Lladó"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
